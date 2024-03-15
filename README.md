@@ -24,7 +24,9 @@
 
 <br/>
 
-</h3></div></th>
+<div align="center">
+<table>
+<tr>
 <th><div align="center"><h3>
 
 ![FT](https://img.shields.io/badge/Frontend%20Technologies-FF00A0)
@@ -33,6 +35,13 @@
 </tr>
 <tr>
 <td>
+
+![ST](https://img.shields.io/badge/ST-000?&logo=SemanticUIReact&logoColor=EEF37B)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?&logo=Raspberry-Pi&logoColor=EEF37B)
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino&logoColor=EEF37B)
+![Atmel](https://img.shields.io/badge/Atmel-000?&logo=apollo-graphql&logoColor=EEF37B)
+![Microchip](https://img.shields.io/badge/Microchip-000?&logo=react-router&logoColor=EEF37B)
+
 </td>
 <td>
 
@@ -155,84 +164,6 @@
 </div>
 
 <br/>
-
-<div align="center" style="display: flex; flex-direction: column; align-item:center; justify-content: center;">
-  <table>
-    <tr>
-      <th><div align="center"><h3>GitHub Analytics</h3></div></th>
-    </tr>
-    <tr>
-      <td>
-        <div align="center">
-          <a href="https://u8views.com/github/jepbura"><img src="https://u8views.com/api/v1/github/profiles/25738325/views/day-week-month-total-count.svg"/>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div align="center">
-          <a href="https://github.com/jepbura">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jepbura&theme=slateorange" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-<!-- <div align="center">
-      <a href="https://github.com/jepbura">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=jepbura&theme=rising-sun&hide_border=true&exclude_days=Sun" />
-  </a>
-    </div>
-    <div align="center">
-  <a href="https://github.com/jepbura">
-    <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jepbura&theme=slateorange" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepbura&layout=compact&langs_count=7&theme=slateorange"/>
-    <img height="160em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=jepbura&layout=compact&langs_count=7&theme=slateorange](https://github-readme-stats.vercel.app/api/top-langs/?username=jepbura&hide=javascript,css,scss,html&theme=tokyonight)"/>
-            
-  </a>
-</div> -->
-</div>
-
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <th><div align="center"><h3>Contact Me</h3></div></th>
-    </tr>
-    <tr>
-      <td>
-        <div align="center">
-          <a href="https://www.jepbura.ir"><img src ="https://img.shields.io/badge/website-000?&logo=About.me&logoColor=FFB387" alt="Jepbura logo" title='www.jepbura.ir'/></a>
-          <a href="https://www.bura.dev"><img src ="https://img.shields.io/badge/website-000?&logo=About.me&logoColor=FFB387" alt="Bura logo" title='www.bura.dev'/></a>
-          <a href="https://www.facebook.com/jepbura" target="_blank"><img src ="https://img.shields.io/badge/Facebook-000?&logo=Facebook&logoColor=blue" alt="facebook logo" title='Facebook'/></a>
-          <a href="https://www.instagram.com/jepbura" target="_blank"><img src ="https://img.shields.io/badge/Instagram-000?&logo=Instagram" alt="instagram logo" title='Instagram'/></a>
-          <a href="https://www.linkedin.com/in/jepbura" target="_blank"><img src ="https://img.shields.io/badge/linkedin-000?&logo=linkedin&logoColor=blue" alt="linkedin logo" title='Linkedin'/></a>
-          <a href="https://twitter.com/jepbura" target="_blank"><img src ="https://img.shields.io/badge/Twitter-000?&logo=twitter" alt="twitter logo" title='Twitter'/></a>
-          <a href="https://t.me/jepbura" target="_blank"><img src ="https://img.shields.io/badge/Telegram-000?&logo=telegram" alt="telegram logo" title='Telegram'/></a>
-          <a href="https://t.me/Buradev_Bot" target="_blank"><img src ="https://img.shields.io/badge/Telegram%20Bot-000?&logo=godot-engine" alt="telegram bot logo" title='Telegram Bot'/></a>
-          <a href="https://youtube.com/@jepbura" target="_blank"><img src ="https://img.shields.io/badge/YouTube-000?&logo=YouTube&logoColor=red" alt="youtube logo" title='Youtube'/></a>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <th><div align="center"><h3>Gi Ba Vene Dele</h3></div></th>
-    </tr>
-    <tr>
-      <td>
-        <div align="center">
-          <img src="/assets/gif/p.gif">
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-
-
-
 
 
 
