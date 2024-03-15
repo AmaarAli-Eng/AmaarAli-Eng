@@ -24,19 +24,22 @@
 
 <br/>
 
+<div align="center">
+<table>
+<tr>
+<th><div align="center"><h3>
+
+
+
+</h3></div></th>
+<th><div align="center"><h3>
+
 ![FT](https://img.shields.io/badge/Frontend%20Technologies-FF00A0)
 
 </h3></div></th>
 </tr>
 <tr>
 <td>
-
-![ST](https://img.shields.io/badge/ST-000?&logo=SemanticUIReact&logoColor=EEF37B)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?&logo=Raspberry-Pi&logoColor=EEF37B)
-![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino&logoColor=EEF37B)
-![Atmel](https://img.shields.io/badge/Atmel-000?&logo=apollo-graphql&logoColor=EEF37B)
-![Microchip](https://img.shields.io/badge/Microchip-000?&logo=react-router&logoColor=EEF37B)
-
 </td>
 <td>
 
@@ -231,7 +234,6 @@
     </tr>
   </table>
 </div>
-
 
 
 
