@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amaar Ali</h1>
 <h3 align="center">I'm a Full Stack Engineer</h3>
 
-- 🔭 I’m currently working on **AI | Web Development projects**
+🔭 I’m currently working on **AI | Web Development projects**
 
-- 👯 I’m looking to collaborate on **Long term | Remote | Hybrid | On-site**
+👯 I’m looking to collaborate on **Long term | Remote | Hybrid | On-site**
 
-- 💬 Ask me about **Full stack data**
+💬 Ask me about **Full Stack Data | AI | Machine Learning | Web Development**
 
 📄 **Know about my experiences:**
   
