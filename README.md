@@ -36,14 +36,6 @@
 <tr>
 <td>
 
-![ST](https://img.shields.io/badge/ST-000?&logo=SemanticUIReact&logoColor=EEF37B)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?&logo=Raspberry-Pi&logoColor=EEF37B)
-![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino&logoColor=EEF37B)
-![Atmel](https://img.shields.io/badge/Atmel-000?&logo=apollo-graphql&logoColor=EEF37B)
-![Microchip](https://img.shields.io/badge/Microchip-000?&logo=react-router&logoColor=EEF37B)
-
-</td>
-<td>
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=FF00A0)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C&logoColor=FF00A0)
