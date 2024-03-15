@@ -24,13 +24,6 @@
 
 <br/>
 
-<div align="center">
-<table>
-<tr>
-<th><div align="center"><h3>
-
-
-
 </h3></div></th>
 <th><div align="center"><h3>
 
