@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Full stack data**
 
-- 📄 **Know about my experiences:**
+📄 **Know about my experiences:**
   
 - 💻 Backend: Skilled in NodeJS, Go, and Python, and use these to build high-class apps.
 - 🌐 Frontend: Design attractive and user-friendly using React, React Native, and Flutter.
