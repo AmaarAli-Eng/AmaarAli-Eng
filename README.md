@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amaar Ali</h1>
 <h3 align="center">I'm a Full Stack Engineer</h3>
 
-I am a Computer Scientist with expertise in Artificial Intelligence, Machine Learning, Data Sciences, and Web Development. Throughout my career, I have successfully navigated through all stages of the development cycle for dynamic projects, including requirements gathering, designing, development, testing, and deployment. I am well-versed in the latest technologies and trends in my field of interests, allowing me to stay up-to-date and deliver cutting-edge solutions. As an avid learner, I am constantly seeking opportunities to expand my knowledge and gain valuable experience in order to build highly scalable and stable systems. I’m an ambitious person, so I am looking forward to developing myself and acquiring more and more skills, whether technical or soft skills, that will enable the organization (company) I work for to achieve its goals.
+I am a Computer Scientist with expertise in **Artificial Intelligence, Machine Learning, Data Sciences, and Web Development**. Throughout my career, I have successfully navigated through all stages of the development cycle for dynamic projects, including requirements gathering, designing, development, testing, and deployment. I am well-versed in the latest technologies and trends in my field of interests, allowing me to stay up-to-date and deliver cutting-edge solutions. As an avid learner, I am constantly seeking opportunities to expand my knowledge and gain valuable experience in order to build highly scalable and stable systems. I’m an ambitious person, so I am looking forward to developing myself and acquiring more and more skills, whether technical or soft skills, that will enable the organization (company) I work for to achieve its goals.
 
 
-🔭 I’m currently working on **AI | Web Development projects**
+🔭 I’m currently working on **AI | Machine Learning | Web Development projects**
 
 👯 I’m looking to collaborate on **Long term | Remote | Hybrid | On-site**
 
