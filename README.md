@@ -53,8 +53,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=FF00A0)
 
 </td>
-</tr>
-
 <tr>
 <th><div align="center"><h3>
 
